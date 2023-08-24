@@ -93,6 +93,7 @@ Se reconocen como representantes generales del patrón a:
 2. Director Corporativo de Administración y Servicios.
 3. Subdirector de Capital Humano.
 4. Coordinador de Relaciones Laborales y Recursos Humanos.
+
 Se consideran representantes sectoriales del patrón, a los Directores Generales de las
 empresas productivas subsidiarias.
 Se conceptúan representantes regionales del patrón los siguientes: Gerentes Regionales de
@@ -117,3 +118,26 @@ Petróleos Mexicanos ante el sindicato.
 > A nivel local, se consideran representantes del patrón a los directivos que ostentan la máxima autoridad en los centros de trabajo de PEMEX y sus empresas productivas subsidiarias, así como a los jefes de relaciones laborales y recursos humanos u otras denominaciones equivalentes. También se incluyen los trabajadores de confianza de planta que sean expresamente acreditados como tales por PEMEX ante el sindicato.
 
 > La presencia de estos representantes del patrón tiene como propósito asegurar la adecuada aplicación del contrato y la comunicación entre la empresa y los trabajadores, permitiendo la resolución de asuntos laborales dentro de los límites y disposiciones establecidos en este CCT.
+
+IX. REPRESENTANTES DEL SINDICATO. Son trabajadores de planta sindicalizados,
+autorizados para tratar los asuntos de carácter colectivo o individual con los representantes
+patronales según se trate, así como las diferencias que se susciten con motivo de la aplicación
+del presente contrato, que a continuación se mencionan:
+- Comité Ejecutivo General.
+- Consejo General de Vigilancia.
+- Asesores del Comité Ejecutivo General. Trabajadores de planta sindicalizados designados
+por Convención, para asesorar al Comité Ejecutivo General en materia laboral.
+- Comités Ejecutivos Locales de las secciones y delegaciones, o las personas que designe
+el sindicato. 
+
+> En el marco de este Contrato Colectivo de Trabajo (CCT), se establecen los "representantes del sindicato", que son trabajadores sindicalizados de planta autorizados para tratar asuntos tanto de carácter colectivo como individual con los representantes patronales, así como para abordar las diferencias que puedan surgir con motivo de la aplicación de este contrato. A continuación, se mencionan los distintos niveles y roles de los representantes sindicales:
+
+> - **Comité Ejecutivo General:** Este es el órgano de dirección y toma de decisiones del Sindicato de Trabajadores Petroleros de la República Mexicana (STPRM). Está encabezado por el Comité Ejecutivo General, que tiene la responsabilidad de representar a los trabajadores sindicalizados a nivel nacional y de tratar asuntos de relevancia en el marco de este contrato.
+
+> - **Consejo General de Vigilancia:** El Consejo General de Vigilancia es otro órgano importante dentro del sindicato. Su función es supervisar y velar por el cumplimiento de las disposiciones establecidas en el contrato, así como asegurarse de que los intereses de los trabajadores sean respetados.
+
+> - **Asesores del Comité Ejecutivo General:** Estos son trabajadores de planta sindicalizados que han sido designados por la Convención del sindicato para asesorar al Comité Ejecutivo General en cuestiones laborales. Su experiencia y conocimiento contribuyen al proceso de toma de decisiones en beneficio de los trabajadores.
+
+> - **Comités Ejecutivos Locales de las secciones y delegaciones:** Cada sección y delegación cuenta con su propio Comité Ejecutivo Local, que representa los intereses de los trabajadores en áreas geográficas o funcionales específicas. Los miembros de estos comités tratan asuntos relacionados con sus respectivas áreas y colaboran con el sindicato en la implementación y seguimiento del contrato.
+
+La presencia de estos representantes del sindicato asegura que los trabajadores tengan una voz activa en la negociación, aplicación y cumplimiento del contrato, así como en la resolución de diferencias que puedan surgir en relación con este.
