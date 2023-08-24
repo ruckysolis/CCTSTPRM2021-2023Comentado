@@ -243,10 +243,10 @@ valores de la Ayuda para Despensa y la Cuota Fija del Fondo de Ahorros.
 XX. SALARIO ORDINARIO. Es la retribución total que percibe el trabajador sindicalizado
 por sus servicios y que se integra con los valores correspondientes al salario tabulado, fondo de
 ahorros y ayuda de renta de casa. En el caso de los trabajadores de turno se adiciona el concepto
-de tiempo extra fijo, de acuerdo con lo establecido en la cláusula 45 de este contrato.  
+de tiempo extra fijo, de acuerdo con lo establecido en la [cláusula 45](../capitulo8/clausula45.md) de este contrato.  
 
 > Se define el concepto de "salario ordinario" como la retribución total que recibe el trabajador sindicalizado por sus servicios. Este salario ordinario se compone de varios elementos, incluyendo los valores correspondientes al salario tabulado, el Fondo de Ahorros y la Ayuda de Renta de Casa.
 
-Para los trabajadores de turno, se agrega el concepto de "tiempo extra fijo", de acuerdo con lo establecido en la cláusula 45 de este contrato. Esto significa que los trabajadores que realicen horas extras adicionales a su horario regular de trabajo recibirán una compensación adicional, y esta compensación también se suma al salario ordinario.
+Para los trabajadores de turno, se agrega el concepto de "tiempo extra fijo", de acuerdo con lo establecido en la [cláusula 45](../capitulo8/clausula45.md) de este contrato. Esto significa que los trabajadores que realicen horas extras adicionales a su horario regular de trabajo recibirán una compensación adicional, y esta compensación también se suma al salario ordinario.
 
 En resumen, el salario ordinario es la suma total de todas las componentes de compensación que un trabajador sindicalizado recibe por sus servicios, incluyendo el salario tabulado, los beneficios del Fondo de Ahorros y la Ayuda de Renta de Casa, así como, en el caso de los trabajadores de turno, el tiempo extra fijo de acuerdo con las disposiciones del contrato. El salario ordinario refleja la retribución integral por el trabajo realizado y es fundamental para la determinación de la remuneración de los empleados.
