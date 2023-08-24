@@ -65,3 +65,55 @@ En el marco de este Contrato Colectivo de Trabajo (CCT), el término "centro de 
 Cada centro de trabajo constituye una entidad operativa dentro de la estructura de PEMEX y sus subsidiarias, y es responsable de realizar una serie de labores específicas relacionadas con la operación, mantenimiento, distribución y transporte en la industria petrolera. Estas dependencias pueden estar ubicadas en diferentes lugares de la República Mexicana y desempeñan un papel crucial en la consecución de los objetivos y metas de la empresa.
 
 La definición de "centro de trabajo" resalta la importancia de la colaboración entre distintos departamentos o unidades de trabajo para lograr la eficiencia en las funciones asignadas a cada uno. Esto refleja la interdependencia que puede existir entre diferentes áreas dentro de PEMEX y sus subsidiarias para lograr una operación fluida y eficaz en toda la industria petrolera.
+
+VI. SECCIONES. Las agrupaciones del sindicato, constituidas o que se constituyan de
+acuerdo con los Estatutos del mismo, con jurisdicción sindical determinada. 
+
+> En el contexto de este Contrato Colectivo de Trabajo (CCT), el término "secciones" se refiere a las agrupaciones dentro del Sindicato de Trabajadores Petroleros de la República Mexicana (STPRM). Estas agrupaciones son establecidas conforme a los Estatutos del sindicato y tienen una jurisdicción sindical determinada, es decir, un ámbito geográfico o funcional específico en el cual representan a los trabajadores afiliados.
+
+> Cada sección representa y agrupa a los trabajadores que pertenecen a una determinada región geográfica o que comparten funciones laborales similares dentro de la industria petrolera. Estas agrupaciones sindicales tienen la responsabilidad de velar por los intereses y derechos de los trabajadores en su jurisdicción, así como de participar en las negociaciones colectivas y en la implementación de las disposiciones del CCT.
+
+> La definición de "secciones" destaca el papel de estas agrupaciones como unidades representativas dentro del sindicato, enfocadas en atender las necesidades y particularidades de los trabajadores en áreas específicas, ya sea por ubicación geográfica o por funciones laborales afines.
+
+VII. DELEGACIONES. Grupo de trabajadores, dependientes de secciones, constituidas o
+que se constituyan por necesidades de las mismas y conforme a los Estatutos del sindicato
+
+> En el marco de este Contrato Colectivo de Trabajo (CCT), el término "delegaciones" se refiere a grupos de trabajadores que forman parte de una sección específica dentro del Sindicato de Trabajadores Petroleros de la República Mexicana (STPRM). Estas delegaciones son establecidas o creadas en función de las necesidades de las secciones y en cumplimiento de los Estatutos del sindicato.
+
+> Las delegaciones son una forma de organización interna que permite una representación más cercana y efectiva de los trabajadores en diferentes áreas o subdivisiones dentro de una sección. Estas agrupaciones pueden ser creadas en respuesta a particularidades laborales, geográficas o funcionales, con el objetivo de asegurar que los trabajadores cuenten con un espacio donde puedan discutir sus inquietudes y asuntos específicos.
+
+> La definición de "delegaciones" resalta su carácter de grupos dependientes de secciones, lo que significa que estas agrupaciones están conectadas y colaboran estrechamente con las secciones correspondientes. Su establecimiento y funcionamiento están regidos por los Estatutos del sindicato, que establecen las normas y procedimientos para su creación y operación en concordancia con los objetivos sindicales generales.
+
+VIII. REPRESENTANTES DEL PATRÓN. Son los funcionarios y empleados de Petróleos
+Mexicanos y de sus empresas productivas subsidiarias, con facultades para tratar y resolver los
+asuntos de trabajo en sus respectivos ámbitos de competencia, con motivo de la aplicación de
+este contrato.
+Se reconocen como representantes generales del patrón a:
+1. Director General de Petróleos Mexicanos.
+2. Director Corporativo de Administración y Servicios.
+3. Subdirector de Capital Humano.
+4. Coordinador de Relaciones Laborales y Recursos Humanos.
+Se consideran representantes sectoriales del patrón, a los Directores Generales de las
+empresas productivas subsidiarias.
+Se conceptúan representantes regionales del patrón los siguientes: Gerentes Regionales de
+Relaciones Laborales y Recursos Humanos Altiplano, Norte, Sur y Sureste.
+Son representantes locales del patrón, cada uno de los directivos que ejerzan la máxima
+autoridad en los centros de trabajo de Petróleos Mexicanos y sus empresas productivas
+subsidiarias, así como los jefes de relaciones laborales y recursos humanos o como se les
+denomine. Así como los demás trabajadores de confianza de planta de Petróleos Mexicanos y
+sus empresas productivas subsidiarias, que se acrediten expresamente con tal carácter por
+Petróleos Mexicanos ante el sindicato.
+
+> En el marco de este Contrato Colectivo de Trabajo (CCT), se establece la figura de los "representantes del patrón", que son los funcionarios y empleados de Petróleos Mexicanos (PEMEX) y de sus empresas productivas subsidiarias con la autoridad para tratar y resolver asuntos laborales en relación con la aplicación de este contrato.
+
+> Los representantes generales del patrón son:
+> 1. Director General de Petróleos Mexicanos.
+> 2. Director Corporativo de Administración y Servicios.
+> 3. Subdirector de Capital Humano.
+> 4. Coordinador de Relaciones Laborales y Recursos Humanos.
+
+> Además, se reconocen a los Directores Generales de las empresas productivas subsidiarias como representantes sectoriales del patrón. También se identifican a los Gerentes Regionales de Relaciones Laborales y Recursos Humanos en las regiones Altiplano, Norte, Sur y Sureste como representantes regionales del patrón.
+
+> A nivel local, se consideran representantes del patrón a los directivos que ostentan la máxima autoridad en los centros de trabajo de PEMEX y sus empresas productivas subsidiarias, así como a los jefes de relaciones laborales y recursos humanos u otras denominaciones equivalentes. También se incluyen los trabajadores de confianza de planta que sean expresamente acreditados como tales por PEMEX ante el sindicato.
+
+> La presencia de estos representantes del patrón tiene como propósito asegurar la adecuada aplicación del contrato y la comunicación entre la empresa y los trabajadores, permitiendo la resolución de asuntos laborales dentro de los límites y disposiciones establecidos en este CCT.
