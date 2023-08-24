@@ -17,7 +17,7 @@ Para la correcta aplicación de este contrato, se establecen las siguientes defi
 I. CONTRATO. El presente instrumento celebrado entre el patrón y el sindicato, que
 establece las condiciones generales y especiales bajo las que se presta el trabajo en Petróleos
 Mexicanos y sus empresas productivas subsidiarias; que se aplica sin distinción en términos del
-artículo 2 de la Ley Federal del Trabajo. 
+[artículo 2 de la Ley Federal del Trabajo](../CORRELACIÓN/Articulo2LFT.md). 
 
 > Se refiere al presente instrumento legal que ha sido acordado entre la representación de los trabajadores, representada por el sindicato, y la empresa (patrón). Este contrato establece tanto las condiciones generales como las condiciones especiales bajo las cuales se llevará a cabo la prestación del trabajo en las distintas actividades realizadas por PEMEX y sus subsidiarias en la República Mexicana.
 
