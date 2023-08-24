@@ -21,7 +21,7 @@ Mexicanos y sus empresas productivas subsidiarias; que se aplica sin distinción
 
 > Se refiere al presente instrumento legal que ha sido acordado entre la representación de los trabajadores, representada por el sindicato, y la empresa (patrón). Este contrato establece tanto las condiciones generales como las condiciones especiales bajo las cuales se llevará a cabo la prestación del trabajo en las distintas actividades realizadas por PEMEX y sus subsidiarias en la República Mexicana.
 
-> Es importante destacar que este contrato es de carácter colectivo, lo que significa que rige las relaciones laborales en conjunto para un grupo de trabajadores, en este caso, aquellos empleados que estén afiliados al sindicato correspondiente. Además, este contrato se aplica de manera uniforme y sin distinciones, tal como lo establece el artículo 2 de la Ley Federal del Trabajo, garantizando igualdad de condiciones para todos los trabajadores cubiertos por el CCT.
+> Es importante destacar que este contrato es de carácter colectivo, lo que significa que rige las relaciones laborales en conjunto para un grupo de trabajadores, en este caso, aquellos empleados que estén afiliados al sindicato correspondiente. Además, este contrato se aplica de manera uniforme y sin distinciones, tal como lo establece el [artículo 2 de la Ley Federal del Trabajo](../CORRELACIÓN/Articulo2LFT.md), garantizando igualdad de condiciones para todos los trabajadores cubiertos por el CCT.
 
 II. PATRÓN. Petróleos Mexicanos y sus empresas productivas subsidiarias legalmente
 constituidas o como se les denomine en lo futuro bajo cualquier estructura jurídica, en los ámbitos
