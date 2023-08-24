@@ -87,3 +87,17 @@ Establece un requisito importante para los candidatos de nuevo ingreso que el si
 
 > Asegura que los candidatos propuestos por el sindicato para ocupar vacantes deben ser considerados aptos y satisfacer los estándares y requisitos del patrón antes de ser seleccionados para el puesto. Esto busca garantizar que la empresa cuente con empleados que sean adecuados para las posiciones y que contribuyan al funcionamiento eficiente y efectivo de la organización.
 
+a) Ser mexicano.
+
+b) Tener como mínimo 16 años de edad, salvo que en el puesto que trate de cubrirse se
+desarrollen actividades de turno o de operador de equipo; en este evento deberá acreditar como
+mínimo 18 años de edad.
+
+c) Presentar Registro Federal de Contribuyentes con Homoclave, emitido por el SAT.
+
+d) Presentar certificado de instrucción secundaria y, para actividades calificadas o de
+requerimiento profesional, deberá acreditar el haber cursado y terminado los estudios que exige
+el perfil del puesto.
+
+e) Aprobar satisfactoriamente los exámenes médicos y de aptitud que se le practiquen.
+
