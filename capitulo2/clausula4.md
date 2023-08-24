@@ -6,13 +6,13 @@ términos del Reglamento de Escalafones y Ascensos.
 
 > Aborda el proceso de cubrimiento de puestos de nueva creación definitivos y vacantes definitivas en el ámbito de la relación laboral establecida en el contrato colectivo. Aquí están los aspectos clave de la cláusula:
 
-> 1. **Puestos de Nueva Creación y Vacantes Definitivas:** Esta cláusula se aplica a los puestos que son recién creados y a las posiciones vacantes que son permanentes.
+> **Puestos de Nueva Creación y Vacantes Definitivas:** Esta cláusula se aplica a los puestos que son recién creados y a las posiciones vacantes que son permanentes.
 
-> 2. **Responsabilidad del Patrón y el Sindicato:** El empleador (patrón) es responsable de llenar estos puestos de acuerdo con los términos de la cláusula. Sin embargo, la cobertura de estos puestos se lleva a cabo en cooperación con el sindicato, a través de las secciones o delegaciones del mismo.
+> **Responsabilidad del Patrón y el Sindicato:** El empleador (patrón) es responsable de llenar estos puestos de acuerdo con los términos de la cláusula. Sin embargo, la cobertura de estos puestos se lleva a cabo en cooperación con el sindicato, a través de las secciones o delegaciones del mismo.
 
-> 3. **Reajuste de Personal:** Los puestos de nueva creación definitivos y las vacantes definitivas que se deben al reajuste del personal no están cubiertos por esta cláusula. Es decir, si la vacante surge debido a cambios en el personal ya existente, no se aplica el proceso aquí establecido.
+> **Reajuste de Personal:** Los puestos de nueva creación definitivos y las vacantes definitivas que se deben al reajuste del personal no están cubiertos por esta cláusula. Es decir, si la vacante surge debido a cambios en el personal ya existente, no se aplica el proceso aquí establecido.
 
-> 4. **Movimiento Escalafonario:** Cuando la cobertura de vacantes definitivas resulta en un movimiento escalafonario, es decir, cambios en los niveles de clasificación y ascensos dentro de la jerarquía laboral, estos movimientos deben llevarse a cabo de acuerdo con las reglas y disposiciones establecidas en el Reglamento de Escalafones y Ascensos.
+> **Movimiento Escalafonario:** Cuando la cobertura de vacantes definitivas resulta en un movimiento escalafonario, es decir, cambios en los niveles de clasificación y ascensos dentro de la jerarquía laboral, estos movimientos deben llevarse a cabo de acuerdo con las reglas y disposiciones establecidas en el Reglamento de Escalafones y Ascensos.
 
 > Establece un procedimiento específico para cubrir puestos de nueva creación definitivos y vacantes definitivas que no se deben a reajustes de personal. El patrón y el sindicato trabajan juntos en este proceso, y los movimientos escalafonarios también se manejan de acuerdo con las reglas predefinidas.
 
@@ -22,11 +22,11 @@ al de la notificación oficial hecha al representante del sindicato.
 
 > Se establece un procedimiento específico para la solicitud y propuesta de personal necesario por parte de los representantes del patrón (empresa) a través de los representantes del sindicato. Aquí están los elementos clave de la cláusula:
 
-> 1. **Solicitud por Escrito:** Los representantes del patrón en cada centro de trabajo deben presentar una solicitud por escrito al sindicato. Esta solicitud se refiere a la necesidad de cubrir puestos de nueva creación definitivos o vacantes definitivas.
+> **Solicitud por Escrito:** Los representantes del patrón en cada centro de trabajo deben presentar una solicitud por escrito al sindicato. Esta solicitud se refiere a la necesidad de cubrir puestos de nueva creación definitivos o vacantes definitivas.
 
-> 2. **Plazo para la Propuesta:** Después de que la solicitud por escrito se haya presentado al sindicato, se establece un plazo específico. Dentro de las 72 horas a partir del día siguiente a la notificación oficial hecha al representante del sindicato, se espera que el sindicato presente su propuesta de personal necesario.
+> **Plazo para la Propuesta:** Después de que la solicitud por escrito se haya presentado al sindicato, se establece un plazo específico. Dentro de las 72 horas a partir del día siguiente a la notificación oficial hecha al representante del sindicato, se espera que el sindicato presente su propuesta de personal necesario.
 
-> 3. **Coordinación de Plazos:** Es importante observar que el plazo de 72 horas comienza a contar a partir del día siguiente a la notificación oficial. Esto significa que el sindicato tiene un periodo limitado de tiempo para presentar su propuesta después de recibir la solicitud por escrito.
+> **Coordinación de Plazos:** Es importante observar que el plazo de 72 horas comienza a contar a partir del día siguiente a la notificación oficial. Esto significa que el sindicato tiene un periodo limitado de tiempo para presentar su propuesta después de recibir la solicitud por escrito.
 
 > Busca establecer un proceso claro y cronometrado para la comunicación y coordinación entre los representantes del patrón y del sindicato en relación con la cobertura de puestos de nueva creación definitivos o vacantes definitivas. El objetivo es agilizar el proceso de respuesta y propuesta en beneficio de ambas partes y del funcionamiento continuo de la empresa.
 
@@ -56,11 +56,11 @@ transitorios.
 
 > Establece el proceso que se sigue cuando el sindicato presenta una propuesta para cubrir una vacante que ha sido cubierta temporalmente por un trabajador ascendido en virtud de las disposiciones anteriores. Aquí están los puntos clave de esta cláusula:
 
-> 1. **Propuesta Sindical y Aceptación:** Si el sindicato presenta una propuesta para llenar la vacante dentro del período establecido, y si el candidato propuesto es aceptado en conformidad con los términos del contrato colectivo, se activa el proceso siguiente.
+> **Propuesta Sindical y Aceptación:** Si el sindicato presenta una propuesta para llenar la vacante dentro del período establecido, y si el candidato propuesto es aceptado en conformidad con los términos del contrato colectivo, se activa el proceso siguiente.
 
-> 2. **Regreso a Puestos de Origen:** Los trabajadores que habían sido ascendidos temporalmente debido a la vacante volverán a sus puestos de origen una vez que el candidato propuesto por el sindicato haya sido aceptado y haya ocupado la vacante definitiva.
+> **Regreso a Puestos de Origen:** Los trabajadores que habían sido ascendidos temporalmente debido a la vacante volverán a sus puestos de origen una vez que el candidato propuesto por el sindicato haya sido aceptado y haya ocupado la vacante definitiva.
 
-> 3. **Trabajadores Transitorios:** En el caso de trabajadores transitorios (aquellos con contratos temporales o a plazo fijo), si no se les requiere para llenar la vacante definitiva debido a la propuesta sindical, dejarán de prestar servicios.
+> **Trabajadores Transitorios:** En el caso de trabajadores transitorios (aquellos con contratos temporales o a plazo fijo), si no se les requiere para llenar la vacante definitiva debido a la propuesta sindical, dejarán de prestar servicios.
 
 > Establece que si el sindicato propone un candidato para cubrir una vacante que ha sido ocupada temporalmente por un trabajador ascendido, y ese candidato es aceptado en conformidad con los términos del contrato, el trabajador ascendido volverá a su puesto original. Si se trata de trabajadores transitorios, dejarán de prestar servicios. Esto asegura que el proceso de llenar la vacante se ajuste a los términos del contrato colectivo y proporciona un marco claro para la transición y reubicación de los trabajadores involucrados.
 
