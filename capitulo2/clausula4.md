@@ -81,9 +81,9 @@ patrón, con los siguientes requisitos:
 
 Establece un requisito importante para los candidatos de nuevo ingreso que el sindicato presente como propuestas para ocupar vacantes. Aquí se establece que los candidatos deben cumplir con las expectativas y estándares establecidos por el patrón (empresa) para ser considerados para el puesto. Los puntos clave de esta cláusula son:
 
-> 1. **Candidatos de Nuevo Ingreso:** Se refiere a las personas que el sindicato presenta como candidatos para ocupar vacantes en la empresa.
+> **Candidatos de Nuevo Ingreso:** Se refiere a las personas que el sindicato presenta como candidatos para ocupar vacantes en la empresa.
 
-> 2. **Cumplir a Satisfacción del Patrón:** Indica que estos candidatos deben ser evaluados por el patrón y cumplir con sus expectativas y criterios para el puesto. Esto podría incluir aspectos como habilidades, conocimientos, experiencia y otros requisitos específicos que la empresa considere esenciales para el desempeño exitoso en el puesto.
+> **Cumplir a Satisfacción del Patrón:** Indica que estos candidatos deben ser evaluados por el patrón y cumplir con sus expectativas y criterios para el puesto. Esto podría incluir aspectos como habilidades, conocimientos, experiencia y otros requisitos específicos que la empresa considere esenciales para el desempeño exitoso en el puesto.
 
 > Asegura que los candidatos propuestos por el sindicato para ocupar vacantes deben ser considerados aptos y satisfacer los estándares y requisitos del patrón antes de ser seleccionados para el puesto. Esto busca garantizar que la empresa cuente con empleados que sean adecuados para las posiciones y que contribuyan al funcionamiento eficiente y efectivo de la organización.
 
