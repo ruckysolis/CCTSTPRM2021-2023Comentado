@@ -27,15 +27,15 @@ Ejecutivo General del STPRM.
 
 Se establece la manera en que se llevará a cabo la aplicación y resolución de los asuntos contemplados en el contrato, así como la competencia de las diferentes instancias para tomar decisiones en relación con estos asuntos.
 
->  1. La aplicación de este contrato colectivo está a cargo de los representantes sindicales y del patrón que han sido acreditados en la Cláusula 1, en sus respectivos ámbitos de competencia.
+>  - La aplicación de este contrato colectivo está a cargo de los representantes sindicales y del patrón que han sido acreditados en la Cláusula 1, en sus respectivos ámbitos de competencia.
 
->  2. Cada centro de trabajo, a través de sus representantes patronales locales, es responsable de atender y resolver los asuntos planteados por escrito por los comités ejecutivos seccionales o delegacionales. En caso de que la representación sindical no esté de acuerdo con la resolución, tiene el derecho de replantear el caso, ya sea directamente o a través del representante local del patrón, ante los representantes regionales.
+>  - Cada centro de trabajo, a través de sus representantes patronales locales, es responsable de atender y resolver los asuntos planteados por escrito por los comités ejecutivos seccionales o delegacionales. En caso de que la representación sindical no esté de acuerdo con la resolución, tiene el derecho de replantear el caso, ya sea directamente o a través del representante local del patrón, ante los representantes regionales.
 
->  3. Los planteamientos sindicales en las instancias mencionadas anteriormente deben ser atendidos por el patrón en un plazo máximo de 10 días hábiles, y la resolución debe ser comunicada por escrito al sindicato, justificando las bases de la decisión.
+>  - Los planteamientos sindicales en las instancias mencionadas anteriormente deben ser atendidos por el patrón en un plazo máximo de 10 días hábiles, y la resolución debe ser comunicada por escrito al sindicato, justificando las bases de la decisión.
 
->  4. Los representantes patronales mencionados en la cláusula están obligados a recibir a la representación sindical en horario laboral y, en casos de gravedad o importancia, fuera de este horario.
+>  - Los representantes patronales mencionados en la cláusula están obligados a recibir a la representación sindical en horario laboral y, en casos de gravedad o importancia, fuera de este horario.
 
-> 5. La competencia de los representantes generales del patrón y del Comité Ejecutivo General del STPRM incluye:
+> - La competencia de los representantes generales del patrón y del Comité Ejecutivo General del STPRM incluye:
    - Asuntos laborales de carácter general.
    - Situaciones que involucren a grupos de trabajadores de una o más empresas productivas subsidiarias.
    - Casos que presenten variaciones o modalidades especiales en las condiciones de trabajo.
@@ -47,4 +47,5 @@ Se establece la manera en que se llevará a cabo la aplicación y resolución de
 > Esta cláusula establece una estructura organizativa y de competencias para garantizar que los asuntos laborales sean atendidos y resueltos de manera efectiva y justa, y que la interpretación y aplicación del contrato se realice de manera coherente y uniforme.
 
 [CLAUSULA 1](clausula1.md)
+
 [CLAUSULA 3](clausula3.md)
