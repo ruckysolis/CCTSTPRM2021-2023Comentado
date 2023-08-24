@@ -42,7 +42,7 @@ Se establece la manera en que se llevará a cabo la aplicación y resolución de
    - Asuntos que el sindicato decida abordar directamente debido a la insatisfacción con la resolución emitida a nivel local por los comités ejecutivos locales o delegacionales.
    - Asuntos específicos que, debido a sus características, deben ser tratados a ese nivel.
 
-> 6. La negociación y la interpretación de este contrato colectivo, así como de los acuerdos y convenios conexos, están dentro de la competencia exclusiva de los representantes generales del patrón y del Comité Ejecutivo General del STPRM.
+> - La negociación y la interpretación de este contrato colectivo, así como de los acuerdos y convenios conexos, están dentro de la competencia exclusiva de los representantes generales del patrón y del Comité Ejecutivo General del STPRM.
 
 > Esta cláusula establece una estructura organizativa y de competencias para garantizar que los asuntos laborales sean atendidos y resueltos de manera efectiva y justa, y que la interpretación y aplicación del contrato se realice de manera coherente y uniforme.
 
