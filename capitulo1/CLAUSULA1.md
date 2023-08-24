@@ -1,3 +1,10 @@
+---
+layout: default
+title: CLAÚSULA 1
+---
+
+# CLAÚSULA 1
+
 CLÁUSULA 1. Son objeto de este Contrato Colectivo de Trabajo todos los trabajos y
 actividades que Petróleos Mexicanos y sus empresas productivas subsidiarias realicen en la
 República Mexicana, para la operación, mantenimiento, distribución y transporte en la Industria
@@ -42,3 +49,19 @@ denomine.
 > El STPRM es la organización que actúa como representante de los trabajadores afiliados y tiene la responsabilidad de negociar en su nombre las condiciones laborales y los términos del CCT con el "patrón" (Petróleos Mexicanos y sus empresas productivas subsidiarias). Su función principal es velar por los derechos e intereses de los trabajadores, así como asegurar que se cumplan las disposiciones establecidas en el contrato.
 
 > Cabe señalar que esta definición incluye una mención específica a la jurisdicción federal del sindicato, lo que significa que su ámbito de acción y representación se extiende a nivel nacional, abarcando a los trabajadores de la industria petrolera en todo el territorio de la República Mexicana. Además, se contempla la posibilidad de que en el futuro el sindicato pueda adoptar otra denominación sin que ello afecte su papel como representante de los trabajadores en la negociación y aplicación del CCT.
+
+IV.	TRABAJADORES. Las personas físicas sindicalizadas miembros del STPRM que prestan un servicio personal subordinado al patrón, en forma material, intelectual, técnica o profesional, de acuerdo con este contrato.
+
+> En el contexto de este Contrato Colectivo de Trabajo (CCT), el término "trabajadores" se refiere a las personas físicas que están sindicalizadas y son miembros del Sindicato de Trabajadores Petroleros de la República Mexicana (STPRM). Estos trabajadores prestan un servicio personal subordinado al "patrón" (Petróleos Mexicanos y sus empresas productivas subsidiarias), en diversas formas como material, intelectual, técnica o profesional.
+
+> Los "trabajadores" incluidos en esta definición son aquellos empleados que están afiliados al sindicato y, por lo tanto, están amparados por las condiciones y disposiciones establecidas en el CCT. Su labor puede abarcar una amplia gama de actividades relacionadas con la industria petrolera, y pueden desempeñar roles que van desde tareas manuales hasta trabajos técnicos o profesionales, todos en el marco de la relación laboral subordinada.
+
+> Es importante señalar que esta definición destaca la afiliación sindical como criterio clave para la inclusión de un individuo en la categoría de "trabajador" bajo este CCT. Además, se hace hincapié en la diversidad de habilidades y funciones que los trabajadores pueden desempeñar en el contexto de la industria petrolera, abarcando tanto aspectos físicos como intelectuales y técnicos.
+
+V.	CENTRO DE TRABAJO. Cada una de las dependencias de Petróleos Mexicanos y de las empresas productivas subsidiarias que por el conjunto de labores de sus diversos departamentos o unidades de trabajo, cumplan con las funciones asignadas.
+
+En el marco de este Contrato Colectivo de Trabajo (CCT), el término "centro de trabajo" hace referencia a cada una de las dependencias de Petróleos Mexicanos (PEMEX) y de las empresas productivas subsidiarias. Estas dependencias pueden estar compuestas por diversos departamentos o unidades de trabajo que, en conjunto, llevan a cabo las funciones asignadas a cada centro de trabajo en particular.
+
+Cada centro de trabajo constituye una entidad operativa dentro de la estructura de PEMEX y sus subsidiarias, y es responsable de realizar una serie de labores específicas relacionadas con la operación, mantenimiento, distribución y transporte en la industria petrolera. Estas dependencias pueden estar ubicadas en diferentes lugares de la República Mexicana y desempeñan un papel crucial en la consecución de los objetivos y metas de la empresa.
+
+La definición de "centro de trabajo" resalta la importancia de la colaboración entre distintos departamentos o unidades de trabajo para lograr la eficiencia en las funciones asignadas a cada uno. Esto refleja la interdependencia que puede existir entre diferentes áreas dentro de PEMEX y sus subsidiarias para lograr una operación fluida y eficaz en toda la industria petrolera.

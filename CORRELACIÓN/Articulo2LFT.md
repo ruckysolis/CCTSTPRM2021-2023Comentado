@@ -1,3 +1,10 @@
+---
+layout: default
+title: Artículo 2 LFT
+---
+
+# Artículo 2 LFT
+
 Artículo 2o.- Las normas del trabajo tienden a conseguir el equilibrio entre los factores de la
 producción y la justicia social, así como propiciar el trabajo digno o decente en todas las relaciones
 laborales.
