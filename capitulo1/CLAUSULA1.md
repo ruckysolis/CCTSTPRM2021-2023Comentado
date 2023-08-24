@@ -150,3 +150,12 @@ desempeñar de manera accidental o permanente tareas específicas de naturaleza 
 > Las comisiones son creadas con el propósito de abordar aspectos laborales particulares que requieren una atención y discusión específica. Las personas que integran estas comisiones tienen voz y voto en las cuestiones que se debaten, lo que permite una representación equitativa y participativa de ambas partes en la toma de decisiones relacionadas con los temas laborales correspondientes.
 
 > Las comisiones pueden abordar una amplia gama de asuntos laborales, como la negociación de condiciones específicas de trabajo, la implementación de políticas y prácticas laborales, la resolución de conflictos, la revisión de medidas de seguridad y salud en el trabajo, entre otros. La participación de las comisiones contribuye a la colaboración constructiva y al entendimiento mutuo entre el sindicato y el patrón en la gestión de asuntos laborales.
+
+XI. ASESORES. Las personas que son llamadas por cada una de las partes, con voz pero
+sin voto, para ilustrarlas sobre determinados temas
+
+> En el marco de este Contrato Colectivo de Trabajo (CCT), se establece la figura de los "asesores", que son personas designadas por cada una de las partes, es decir, por el sindicato y el patrón, con la función de proporcionar información y conocimiento sobre temas específicos, sin tener derecho a voto en las decisiones tomadas por las partes.
+
+> Los asesores son convocados con el propósito de brindar claridad y perspectiva en asuntos que requieren un nivel de expertise o experiencia técnica. Aunque no tienen la capacidad de influir directamente en las decisiones finales, su presencia en las discusiones enriquece el debate al aportar información relevante y especializada sobre los temas tratados.
+
+> La inclusión de asesores permite a ambas partes tomar decisiones informadas y basadas en evidencia en áreas donde la comprensión profunda es esencial. Estos asesores pueden ser consultados en diversos aspectos, como cuestiones legales, técnicas, económicas o de salud y seguridad en el trabajo, dependiendo de la naturaleza de los temas en discusión.
