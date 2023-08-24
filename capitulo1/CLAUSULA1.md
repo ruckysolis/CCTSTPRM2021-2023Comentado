@@ -140,4 +140,13 @@ el sindicato.
 
 > - **Comités Ejecutivos Locales de las secciones y delegaciones:** Cada sección y delegación cuenta con su propio Comité Ejecutivo Local, que representa los intereses de los trabajadores en áreas geográficas o funcionales específicas. Los miembros de estos comités tratan asuntos relacionados con sus respectivas áreas y colaboran con el sindicato en la implementación y seguimiento del contrato.
 
-La presencia de estos representantes del sindicato asegura que los trabajadores tengan una voz activa en la negociación, aplicación y cumplimiento del contrato, así como en la resolución de diferencias que puedan surgir en relación con este.
+> La presencia de estos representantes del sindicato asegura que los trabajadores tengan una voz activa en la negociación, aplicación y cumplimiento del contrato, así como en la resolución de diferencias que puedan surgir en relación con este.
+
+X. COMISIONES. Conjunto de personas designadas por las partes con voz y voto, para
+desempeñar de manera accidental o permanente tareas específicas de naturaleza laboral.  
+
+> Dentro de este Contrato Colectivo de Trabajo (CCT), se establece el concepto de "comisiones", que se refiere a conjuntos de personas designadas por ambas partes, es decir, por el sindicato y el patrón, con la facultad de participar en tareas específicas de naturaleza laboral. Estas comisiones pueden tener un carácter accidental o permanente, dependiendo de las necesidades y objetivos que se busquen alcanzar.
+
+> Las comisiones son creadas con el propósito de abordar aspectos laborales particulares que requieren una atención y discusión específica. Las personas que integran estas comisiones tienen voz y voto en las cuestiones que se debaten, lo que permite una representación equitativa y participativa de ambas partes en la toma de decisiones relacionadas con los temas laborales correspondientes.
+
+> Las comisiones pueden abordar una amplia gama de asuntos laborales, como la negociación de condiciones específicas de trabajo, la implementación de políticas y prácticas laborales, la resolución de conflictos, la revisión de medidas de seguridad y salud en el trabajo, entre otros. La participación de las comisiones contribuye a la colaboración constructiva y al entendimiento mutuo entre el sindicato y el patrón en la gestión de asuntos laborales.
