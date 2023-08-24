@@ -250,3 +250,16 @@ de tiempo extra fijo, de acuerdo con lo establecido en la [cláusula 45](../capi
 Para los trabajadores de turno, se agrega el concepto de "tiempo extra fijo", de acuerdo con lo establecido en la [cláusula 45](../capitulo8/clausula45.md) de este contrato. Esto significa que los trabajadores que realicen horas extras adicionales a su horario regular de trabajo recibirán una compensación adicional, y esta compensación también se suma al salario ordinario.
 
 En resumen, el salario ordinario es la suma total de todas las componentes de compensación que un trabajador sindicalizado recibe por sus servicios, incluyendo el salario tabulado, los beneficios del Fondo de Ahorros y la Ayuda de Renta de Casa, así como, en el caso de los trabajadores de turno, el tiempo extra fijo de acuerdo con las disposiciones del contrato. El salario ordinario refleja la retribución integral por el trabajo realizado y es fundamental para la determinación de la remuneración de los empleados.
+
+XXI. ANTIGÜEDAD DE EMPRESA. La generada por el trabajador de planta, incrementada
+con el tiempo que ha laborado como transitorio en Petróleos Mexicanos, en los organismos
+subsidiarios o en las empresas productivas subsidiarias
+
+> Se define el concepto de "antigüedad de empresa" como el periodo acumulado de servicio que un trabajador de planta ha laborado en Petróleos Mexicanos (PEMEX), así como el tiempo que ha trabajado como empleado transitorio en PEMEX, en organismos subsidiarios o en empresas productivas subsidiarias.
+
+> La antigüedad de empresa es un factor relevante para determinar ciertos derechos y beneficios que los trabajadores pueden tener en función de su tiempo de servicio. Este concepto considera tanto el tiempo de trabajo como empleado de planta como el tiempo que el trabajador haya laborado en puestos temporales o transitorios en las diferentes entidades relacionadas con PEMEX.
+
+> La acumulación de antigüedad de empresa puede influir en cuestiones como las oportunidades de ascenso, la asignación de beneficios y las consideraciones relacionadas con la seguridad laboral. Esta cláusula reconoce que el tiempo de servicio, tanto en posiciones permanentes como temporales, contribuye a la experiencia y al compromiso del trabajador con la organización.
+
+
+[CLAUSULA 2](clausula2.md)
